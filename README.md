@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rene-Michel99
-- 👀 I’m interested in programming (python, C#, Javascript, nodejs), machine learning and deep learning.
+- 👀 I’m interested in programming (Python, C#, Javascript, Nodejs, Typescript), machine learning and deep learning.
 - 🌱 I’m currently learning abot tensorflow and computer vision.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ren%C3%AA-michel-santana-padilha-a69394200/

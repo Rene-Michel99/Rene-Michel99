@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m @Rene-Michel99</h2>
-- 👀 I’m interested in programming (Python, C#, Javascript, Nodejs, Typescript), machine learning and deep learning.
-- 🌱 I’m currently learning about tensorflow and React Native.
+- 👀 I’m interested in programming (Python, C#, Javascript, Nodejs, Typescript), machine learning and deep learning.<br/>
+- 🌱 I’m currently learning about Django.
 
 <div>
   <a href="https://github.com/Rene-Michel99">

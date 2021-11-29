@@ -8,6 +8,7 @@
   <li>Deep Learning: MLP, CNN, GAN</li>
   <li>Desenvolvimento Backend: Node.js, PHP, Django</li>
   <li>Desenvolvimento Frontend: React, HTML5, CSS3</li>
+  <li>Desenvolvimento Android</li>
 </ul>
 <div>
   <a href="https://github.com/Rene-Michel99">

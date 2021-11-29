@@ -3,12 +3,12 @@
 
 <h3>Áreas de conhecimento:</h3>
 <ul>
-  <li>Ciências de Dados</li>
-  <li>Machine Learning: Algoritmos Naive Bayes, Regressão Linear, Árvores de Decisão, Random Forest, PCA, KMeans, DBSCAN, SVM</li>
-  <li>Deep Learning: MLP, CNN, GAN</li>
-  <li>Desenvolvimento Backend: Node.js, PHP, Django</li>
-  <li>Desenvolvimento Frontend: React, HTML5, CSS3</li>
-  <li>Desenvolvimento Android</li>
+  <li>📊 Ciências de Dados</li>
+  <li>🤖 Machine Learning: Algoritmos Naive Bayes, Regressão Linear, Árvores de Decisão, Random Forest, PCA, KMeans, DBSCAN, SVM</li>
+  <li>🧠 Deep Learning: MLP, CNN, GAN</li>
+  <li>👨‍💻 Desenvolvimento Backend: Node.js, PHP, Django</li>
+  <li>🖥️ Desenvolvimento Frontend: React, HTML5, CSS3</li>
+  <li>🟢 Desenvolvimento Android</li>
 </ul>
 <div>
   <a href="https://github.com/Rene-Michel99">

@@ -1,5 +1,5 @@
 <h2>👋 Hi, I’m @Rene-Michel99</h2>
-<Intro> Desenvolvedor dedicado cursando Engenharia de Software na Universidade Federal do Ceará desde 2018. Apaixonado por tecnologia e programação, sempre busco aprender novas tecnologias sempre colocando em prática o que aprendi desenvolvendo novos projetos afim de adquirir mais experiência e conhecimento. Tenho como objetivo combinar minha experiência que adquiri nos projetos que desenvolvi com o aprendizado adquirido na faculdade e meus trabalhos anteriores para fornecer códigos inovadores e eficientes e fazer a diferença.</Intro>
+"<Intro>" Desenvolvedor dedicado cursando Engenharia de Software na Universidade Federal do Ceará desde 2018. Apaixonado por tecnologia e programação, sempre busco aprender novas tecnologias sempre colocando em prática o que aprendi desenvolvendo novos projetos afim de adquirir mais experiência e conhecimento. Tenho como objetivo combinar minha experiência que adquiri nos projetos que desenvolvi com o aprendizado adquirido na faculdade e meus trabalhos anteriores para fornecer códigos inovadores e eficientes e fazer a diferença."</Intro>"
 
 <div>
   <a href="https://github.com/Rene-Michel99">

@@ -1,22 +1,23 @@
 <h2>👋 Hi, I’m @Rene-Michel99</h2>
-<Intro> Desenvolvedor dedicado cursando Engenharia de Software na Universidade Federal do Ceará desde 2018. Apaixonado por tecnologia e programação, sempre busco aprender novas tecnologias sempre colocando em prática o que aprendi desenvolvendo novos projetos afim de adquirir mais experiência e conhecimento. Tenho como objetivo combinar minha experiência que adquiri nos projetos que desenvolvi com o aprendizado adquirido na faculdade e meus trabalhos anteriores para fornecer códigos inovadores e eficientes e fazer a diferença.</Intro>
-
-<h3>Áreas de conhecimento:</h3>
 <table borde="0">
   <tr>
     <td>
-      <ul>
-        <li>📊 Ciências de Dados</li>
-        <li>🤖 Machine Learning: Algoritmos Naive Bayes, Regressão Linear, Árvores de Decisão, Random Forest, PCA, KMeans, DBSCAN, SVM</li>
-        <li>🧠 Deep Learning: MLP, CNN, GAN</li>
-        <li>👨‍💻 Desenvolvimento Backend: Node.js, PHP, Django</li>
-        <li>🖥️ Desenvolvimento Frontend: React, HTML5, CSS3</li>
-        <li>🟢 Desenvolvimento Android</li>
-      </ul>
+      <Intro>Desenvolvedor dedicado cursando Engenharia de Software na Universidade Federal do Ceará desde 2018. Apaixonado por tecnologia e programação, sempre busco aprender novas tecnologias sempre colocando em prática o que aprendi desenvolvendo novos projetos afim de adquirir mais experiência e conhecimento. Tenho como objetivo combinar minha experiência que adquiri nos projetos que desenvolvi com o aprendizado adquirido na faculdade e meus trabalhos anteriores para fornecer códigos inovadores e eficientes e fazer a diferença.</Intro>
     </td>
-    <td><img src="programming.gif"></td>
+    <td><img src="programming.gif" width="90000px" height="280"></td>
   </tr>
 </table>
+
+
+<h3>Áreas de conhecimento:</h3>
+<ul>
+  <li>📊 Ciências de Dados</li>
+  <li>🤖 Machine Learning: Algoritmos Naive Bayes, Regressão Linear, Árvores de Decisão, Random Forest, PCA, KMeans, DBSCAN, SVM</li>
+  <li>🧠 Deep Learning: MLP, CNN, GAN</li>
+  <li>👨‍💻 Desenvolvimento Backend: Node.js, PHP, Django</li>
+  <li>🖥️ Desenvolvimento Frontend: React, HTML5, CSS3</li>
+  <li>🟢 Desenvolvimento Android</li>
+</ul>
 <div>
   <a href="https://github.com/Rene-Michel99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rene-Michel99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
